@@ -1,7 +1,7 @@
 {
   "name": "USAF 33rd Wing Mustangs F-35B Lightning II (cadets)",
   "aircrafts": {
-    "F35B": {  // Using a key that's a bit more identifier-like
+    "F35B": {
       "name": "F-35B Lightning II (by JAaMDG)",
       "liveries": [
         {
@@ -9,14 +9,14 @@
           "texture": [
             "https://i.ibb.co/gLg194QM/1.png"
           ],
-          "thumbnail": "https://i.ibb.co/HpRC19X4/Screenshot-2025-04-07-225722.png"  // Added "thumbnail"
+          "thumbnail": "https://i.ibb.co/HpRC19X4/Screenshot-2025-04-07-225722.png"
         },
         {
           "name": "02",
           "texture": [
             "https://i.ibb.co/4gjkcPnN/2.png"
           ],
-          "thumbnail": "https://i.ibb.co/HpRC19X4/Screenshot-2025-04-07-225722.png"  // Added "thumbnail"
+          "thumbnail": "https://i.ibb.co/HpRC19X4/Screenshot-2025-04-07-225722.png"
         }
       ]
     }
