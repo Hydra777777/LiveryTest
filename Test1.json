@@ -1,5 +1,5 @@
 {
-  "name": "USAF 33rd Wing Mustangs F-35B Lightning II (cadets)",
+  "name": "USAF 33rd Wing Mustangs F-35B 1-17",
   "aircrafts": {
     "5229": {
       "name": "F-35B Lightning II (by JAaMDG)",
@@ -15,6 +15,111 @@
           "name": "02",
           "texture": [
             "https://i.ibb.co/4gjkcPnN/2.png"
+          ],
+          "thumbnail": "https://i.ibb.co/HpRC19X4/Screenshot-2025-04-07-225722.png"
+        },
+        {
+          "name": "03",
+          "texture": [
+            "https://i.ibb.co/PsXCYN9Q/3.png"
+          ],
+          "thumbnail": "https://i.ibb.co/HpRC19X4/Screenshot-2025-04-07-225722.png"
+        },
+        {
+          "name": "04",
+          "texture": [
+            "https://i.ibb.co/0pBfpmws/4.png"
+          ],
+          "thumbnail": "https://i.ibb.co/HpRC19X4/Screenshot-2025-04-07-225722.png"
+        },
+        {
+          "name": "05",
+          "texture": [
+            "https://i.ibb.co/twLTNvHV/5.png"
+          ],
+          "thumbnail": "https://i.ibb.co/HpRC19X4/Screenshot-2025-04-07-225722.png"
+        },
+        {
+          "name": "06",
+          "texture": [
+            "https://i.ibb.co/5xhqY4Fb/6.png"
+          ],
+          "thumbnail": "https://i.ibb.co/HpRC19X4/Screenshot-2025-04-07-225722.png"
+        },
+        {
+          "name": "07",
+          "texture": [
+            "https://i.ibb.co/Ld2sQ7dp/7.png"
+          ],
+          "thumbnail": "https://i.ibb.co/HpRC19X4/Screenshot-2025-04-07-225722.png"
+        },
+        {
+          "name": "08",
+          "texture": [
+            "https://i.ibb.co/qLHV9FN9/8.png"
+          ],
+          "thumbnail": "https://i.ibb.co/HpRC19X4/Screenshot-2025-04-07-225722.png"
+        },
+        {
+          "name": "09",
+          "texture": [
+            "https://i.ibb.co/ds7VGVsH/9.png"
+          ],
+          "thumbnail": "https://i.ibb.co/HpRC19X4/Screenshot-2025-04-07-225722.png"
+        },
+        {
+          "name": "10",
+          "texture": [
+            "URL_TO_LIVERY_10.png"
+          ],
+          "thumbnail": "https://i.ibb.co/Hp7fjq74/10.png"
+        },
+        {
+          "name": "11",
+          "texture": [
+            "https://i.ibb.co/Jw0tDJbz/11.png"
+          ],
+          "thumbnail": "https://i.ibb.co/HpRC19X4/Screenshot-2025-04-07-225722.png"
+        },
+        {
+          "name": "12",
+          "texture": [
+            "https://i.ibb.co/nMfKPBbT/12.png"
+          ],
+          "thumbnail": "https://i.ibb.co/HpRC19X4/Screenshot-2025-04-07-225722.png"
+        },
+        {
+          "name": "13",
+          "texture": [
+            "https://i.ibb.co/3mjp8fZ9/13.png"
+          ],
+          "thumbnail": "https://i.ibb.co/HpRC19X4/Screenshot-2025-04-07-225722.png"
+        },
+        {
+          "name": "14",
+          "texture": [
+            "https://i.ibb.co/GBWpfr6/14.png
+          ],
+          "thumbnail": "https://i.ibb.co/HpRC19X4/Screenshot-2025-04-07-225722.png"
+        },
+        {
+          "name": "15",
+          "texture": [
+            "https://i.ibb.co/Kx1x1F1D/15.png"
+          ],
+          "thumbnail": "https://i.ibb.co/HpRC19X4/Screenshot-2025-04-07-225722.png"
+        },
+        {
+          "name": "16",
+          "texture": [
+            "https://i.ibb.co/Nd8PpzB7/16.png"
+          ],
+          "thumbnail": "https://i.ibb.co/HpRC19X4/Screenshot-2025-04-07-225722.png"
+        },
+        {
+          "name": "17",
+          "texture": [
+            "https://i.ibb.co/gMXnjNwf/17.png"
           ],
           "thumbnail": "https://i.ibb.co/HpRC19X4/Screenshot-2025-04-07-225722.png"
         }
