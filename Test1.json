@@ -1,8 +1,8 @@
 {
   "name": "USAF 33rd Wing Mustangs F-35B Lightning II (cadets)",
   "aircrafts": {
-    "F35B": {
-      "name": "F-35B Lightning II (by JAaMDG)",
+    "5229": {  // Use the numerical ID "5229" as the key
+      "name": "F-35B Lightning II (by JAaMDG)", // Keep the full name for display
       "liveries": [
         {
           "name": "01",
